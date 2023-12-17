@@ -1,3 +1,6 @@
+*/.vscode/*
+*/advent
+
 # Prerequisites
 *.d
 
